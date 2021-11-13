@@ -1,3 +1,4 @@
+Note: towards the end of the hackathon we integrated the whole project to MySql Database through python.
 Overview:
 
 RFID tags being used by few institutions, but with minimal applications. For example, our own college Reva uses RFIDs in ID cards which are as of now being used only in libraries. Which can further meet more applications for Saving Institution’s Energy. 
